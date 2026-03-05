@@ -38,3 +38,17 @@ Save/Load State: The full system state (positions, vectors, masses) can serializ
 
 NOTE
 The visualization distances are vast. Zoom out significantly if the screen turns black when navigating in Free Camera mode, or simply select a planet directly from the Follow Object dropdown!
+
+# how-to-run-solar-system-simulation
+
+1.clone the solar system simulation on your pc
+git clone https://github.com/ronak23062007-prog/solar-system-simulation.git
+
+2.open the folder
+open the folder in any code editor 
+
+3.download requiremnts.txt
+pip install requirements.txt
+
+4.run solar system simulation
+python3 main.py
