@@ -41,7 +41,7 @@ The visualization distances are vast. Zoom out significantly if the screen turns
 
 # how-to-run-solar-system-simulation
 
-1.clone the solar system simulation on your pc
+1.clone the solar system simulation on your pc   
 -git clone https://github.com/ronak23062007-prog/solar-system-simulation.git
 
 2.open the folder   
